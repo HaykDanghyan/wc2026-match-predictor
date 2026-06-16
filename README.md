@@ -92,7 +92,7 @@ wc2026-match-predictor/
 
 ```bash
 # clone the repo
-git clone https://github.com/YOUR_USERNAME/wc2026-match-predictor.git
+git clone https://github.com/HaykDanghyan/wc2026-match-predictor.git
 cd wc2026-match-predictor
 
 # install dependencies
