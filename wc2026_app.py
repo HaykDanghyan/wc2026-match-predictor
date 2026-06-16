@@ -505,7 +505,7 @@ with tab3:
 
         st.dataframe(
             top32[["Group","Team","Elo","P(1st)","P(2nd)","P(Best 3rd)","P(Qualify)","Avg Pts"]]
-            .style.applymap(color_qualify, subset=["P(Qualify)"]),
+            .style.map(color_qualify, subset=["P(Qualify)"]),
             use_container_width=True, height=600
         )
 
