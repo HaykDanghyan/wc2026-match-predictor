@@ -2,7 +2,7 @@
 
 Machine learning model that predicts FIFA World Cup 2026 match scores, win/draw/loss probabilities, and group stage qualification using XGBoost Poisson regression and Monte Carlo simulation.
 
-🔗 **[Live App](https://wc2026-match-predictor.streamlit.app)**
+🔗 **[Live App](https://wc2026-match-predictor-777.streamlit.app/)**
 
 ---
 
